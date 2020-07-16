@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FingerprintAuthenticate</string>
+
+    <string name="fingerprint_title">Fingerprint Authenticate Test</string>
+    <string name="fingerprint_desc">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="fingerprint_bottom_text">(Fingerprint sign in makes your app much faster. Your device should at least one fingerprint registered in device settings)</string>
+
+</resources>
